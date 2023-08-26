@@ -17,3 +17,12 @@
 6. What are the top 5 best and the bottom 5 worst-selling pizzas by total revenue?
 7. What are the top 5 best and the bottom 5 worst-selling pizzas by total quantity?
 8. What are the top 5 best and the bottom 5 worst-selling pizzas by total orders?
+
+## Summary of Findings
+- The peak order period is observed on Fridays.
+- The highest number of orders occurs in the month of July, followed by May and January.
+- The popularity of various pizza categories is evident with the Classic category making the maximum contribution of 26,91%.
+- The customer preference for pizza size that leads to maximum sales is the Large size, which accounts for 45,89%.
+- The best-selling pizzas based on total revenue is 'The Thai Chicken', while the worst-selling is 'The Brie Carre'.
+- The best-selling pizzas based on total quantity is 'The Classic Deluxe', while the worst-selling is 'The Brie Carre'.
+- The best-selling pizzas based on total orders is 'The Classic Deluxe', while the worst-selling is 'The Brie Carre'.
