@@ -19,7 +19,7 @@
 8. What are the top 5 best and the bottom 5 worst-selling pizzas by total orders?
 
 ## Summary of Findings
-- Orders are highest on weekdays, Friday evening.
+- Orders are highest on weekdays, particularly on Friday evenings.
 - The highest number of orders occurs in the month of July, and there is a sharp downward trend in September and October.
 - The popularity of various pizza categories is evident with the Classic category making the maximum contribution of 26,91%.
 - Customers preference for pizza size that leads to maximum sales is the Large size, which accounts for 45,89%.
