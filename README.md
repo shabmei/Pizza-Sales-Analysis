@@ -8,7 +8,7 @@
 
 **Data Visualization** - Power BI
 
-## Problem Statment
+## Problem Statement
 1. What does the daily trend for total orders look like?
 2. What does the monthly trend for total orders look like?
 3. What is the percentage of sales for each pizza category?
