@@ -1,10 +1,6 @@
 # Pizza Sales Dashboard
 ![Pizza Sales Dashboard](https://github.com/shabmei/Pizza-Sales-Analysis/assets/143242186/e4d5d1f7-a095-4607-aaff-b292f54b4e8c)
 
-## About
-As a Data Analyst, I embarked on a self-project to apply my knowledge and drive contributions within the data field. The 
-main purpose is to gain insight into business performance and understand key sales trends.
-
 ## Data Used
 **Dataset** - Pizza Sales with 48620 raws in 2015 on Kaggle
 
