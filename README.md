@@ -9,6 +9,9 @@
 **Data Visualization** - Power BI
 
 ## Problem Statement
+Understanding and interpreting the key indicators within our pizza sales data is imperative to gain meaningful insights and comprehend key trends that directly impact our business performance.
+
+## Questions
 1. What does the daily trend for total orders look like?
 2. What does the monthly trend for total orders look like?
 3. What is the percentage of sales for each pizza category?
