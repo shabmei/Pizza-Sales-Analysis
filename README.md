@@ -1,5 +1,5 @@
 # Pizza Sales Dashboard
-![Pizza Sales Dashboard](https://github.com/shabmei/Pizza-Sales-Analysis/assets/143242186/e4d5d1f7-a095-4607-aaff-b292f54b4e8c)
+![Pizza Sales Dashboard](https://github.com/shabmei/Pizza-Sales-Analysis/assets/143242186/2b4dcfb1-8767-455d-a423-d3a7ea7c38ab)
 
 ## Data Used
 **Dataset** - Pizza Sales with 48620 raws in 2015 on Kaggle
